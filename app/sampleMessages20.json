@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "text": "Hello! How are you today?",
+    "isUser": false,
+    "senderName": "John",
+    "senderAvatar": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "2",
+    "text": "I'm doing well, thanks for asking! How about you?",
+    "isUser": true
+  },
+  {
+    "id": "3",
+    "text": "I'm great! Just finished a big project at work.",
+    "isUser": false,
+    "senderName": "John",
+    "senderAvatar": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "4",
+    "text": "That's awesome! What kind of project was it?",
+    "isUser": true
+  },
+  {
+    "id": "5",
+    "text": "It was a mobile app redesign for a major client. Very challenging but rewarding!",
+    "isUser": false,
+    "senderName": "John",
+    "senderAvatar": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "6",
+    "text": "Sounds interesting. I've been working on something similar.",
+    "isUser": true
+  },
+  {
+    "id": "7",
+    "text": "Really? Tell me more about your project.",
+    "isUser": false,
+    "senderName": "John",
+    "senderAvatar": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "8",
+    "text": "It's a React Native app with some complex animations. Been wrestling with keyboard handling across iOS and Android.",
+    "isUser": true
+  },
+  {
+    "id": "9",
+    "text": "Ah, the classic platform differences. Have you tried using a specialized keyboard handling library?",
+    "isUser": false,
+    "senderName": "John",
+    "senderAvatar": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "10",
+    "text": "Yes, I'm testing react-native-keyboard-controller right now. It seems promising.",
+    "isUser": true
+  },
+  {
+    "id": "11",
+    "text": "That's a good choice! I've heard positive things about that library.",
+    "isUser": false,
+    "senderName": "Emma",
+    "senderAvatar": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": "12",
+    "text": "Hey Emma! I didn't know you were in this chat too.",
+    "isUser": true
+  },
+  {
+    "id": "13",
+    "text": "John invited me to join the discussion. I've worked with keyboard handling issues before.",
+    "isUser": false,
+    "senderName": "Emma",
+    "senderAvatar": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": "14",
+    "text": "Great to have you here! Any specific tips for handling the keyboard in chat interfaces?",
+    "isUser": true
+  },
+  {
+    "id": "15",
+    "text": "I recommend trying different behaviors like 'padding' and 'translate-with-padding' to see which works best for your specific UI.",
+    "isUser": false,
+    "senderName": "Emma",
+    "senderAvatar": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": "16",
+    "text": "That's exactly what I'm testing right now! Have you noticed any performance differences between them?",
+    "isUser": true
+  },
+  {
+    "id": "17",
+    "text": "In my experience, 'translate-with-padding' tends to be smoother in chat interfaces, especially with long message lists.",
+    "isUser": false,
+    "senderName": "Emma",
+    "senderAvatar": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": "18",
+    "text": "Interesting. I'll pay attention to scrolling performance in my tests.",
+    "isUser": true
+  },
+  {
+    "id": "19",
+    "text": "Don't forget to test with different keyboard types too, like emoji keyboards and third-party keyboards.",
+    "isUser": false,
+    "senderName": "John",
+    "senderAvatar": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "20",
+    "text": "Good point. I've had issues with predictive text and emoji pickers in the past.",
+    "isUser": true
+  }
+]

@@ -1,10 +1,13 @@
-import {Stack} from "expo-router";
-import {KeyboardProvider} from "react-native-keyboard-controller";
+import { Stack } from "expo-router";
+import { KeyboardProvider } from "react-native-keyboard-controller";
+import { MessageCountProvider } from "./MessageContext";
 
 export default function RootLayout() {
     return (
         <KeyboardProvider>
-            <Stack/>
+            <MessageCountProvider>
+                <Stack/>
+            </MessageCountProvider>
         </KeyboardProvider>
     );
 }

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "text": "Hello! How are you today?",
+    "isUser": false,
+    "senderName": "John",
+    "senderAvatar": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "2",
+    "text": "I'm doing well, thanks for asking! How about you?",
+    "isUser": true
+  },
+  {
+    "id": "3",
+    "text": "I'm great! Just finished a big project at work.",
+    "isUser": false,
+    "senderName": "John",
+    "senderAvatar": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "4",
+    "text": "That's awesome! What kind of project was it?",
+    "isUser": true
+  },
+  {
+    "id": "5",
+    "text": "It was a mobile app redesign for a major client. Very challenging but rewarding!",
+    "isUser": false,
+    "senderName": "John",
+    "senderAvatar": "https://randomuser.me/api/portraits/men/44.jpg"
+  }
+]
