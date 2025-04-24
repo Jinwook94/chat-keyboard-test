@@ -5,17 +5,34 @@ node_modules/
 
 # Expo
 .expo/
+.expo-shared/
 dist/
 web-build/
 expo-env.d.ts
 
-# Native
+# ── Native credentials & provisioning ────────────────────────────────────────
 *.orig.*
 *.jks
+*.keystore
 *.p8
 *.p12
 *.key
 *.mobileprovision
+
+# ── Expo Prebuild Native output ───────────────────────────────────────────────
+## iOS
+ios/Pods/
+ios/build/
+ios/*.xcworkspace
+ios/*.xcodeproj/xcuserdata/
+
+## Android
+android/.gradle/
+android/.cxx/
+android/build/
+android/app/build/
+android/local.properties
+android/*.iml
 
 # Metro
 .metro-health-check*
